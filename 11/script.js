@@ -1,0 +1,7 @@
+let massive=[1, 2, 5, 9, 4, 13, 4, 10];
+for(let i = 0; i <massive.length; i++){
+
+    if(massive[i]==4){
+        alert('Есть!')
+    }
+}
